@@ -1,3 +1,6 @@
+/*
+** To complie it run: g++ 1d_filter.cpp -o output -std=c++11
+*/
 #include <iostream>
 #include <math.h>
 #include <tuple>
