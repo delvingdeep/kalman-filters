@@ -4,7 +4,7 @@
 
 using namespace std;
 
-double new_mean, new_var;
+double new_mean, new_var;       //for updating new measurements
 
 tuple<double, double> measurement_update(double mean1, double var1, double mean2, double var2)
 {
