@@ -1,4 +1,9 @@
-//Compile with: g++ solution.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
+/*
+** Compile with: g++ solution.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
+** This is a part of "Build MCL in C++" lab in term 2 of RoboND
+** Majority is code is owned by RoboND team, I am working on it and will put proper attribution soon.
+**
+*/
 #include "src/matplotlibcpp.h" //Graph Library
 #include <iostream>
 #include <string>
